@@ -1,0 +1,163 @@
+.ul1{
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+
+.ul1 li{
+	float: left;
+}
+
+.ul1 li a:not(.logo){
+	display: block;
+	text-decoration: none;
+	padding: 30px 5px 30px 5px;
+	color: black;
+}
+.ul1 li a:not(.logo):hover{
+	color: #856663;
+}
+
+.ul1 li:first-child{
+	padding: 0 600px 0 30px;
+}
+i{
+	color: green;
+}
+.sec2 {
+	background-color: #282e3f;
+	height: 50px;
+	width: 100%;
+}
+.sec2 ul{
+	list-style-type: none;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+.sec2 ul li{
+	float: left;
+
+}
+.sec2 ul li a{
+	text-decoration: none;
+	padding: 10px;
+	display: block;
+	color: white;
+	font-size: 19px;
+}
+.sec2 input:nth-child(2){
+	background-color: #457947;
+	border: none;
+	height: 23px;
+}
+.sec4 {
+	text-align: center;
+	padding: 50px 300px;
+}
+.sec5 {
+	padding: 50px 10px;
+}
+
+.sec5 div{
+	float: left;
+	width: 50%;
+}
+.sec6 {
+	clear: both;
+	padding: 100px 10px;
+}
+.sec6 div{
+	float: left;
+	width: 33%;
+}
+.sec7{
+	clear: both;
+	padding: 100px 10px;
+}
+.sec7 div{
+	float: left;
+	width: 33%;
+}
+.sec9{
+	clear: both;
+	padding:15px;
+}
+.sec9 div{
+	float: left;
+	width: 31%;
+	margin: 5px;
+}
+.sec10{
+	clear: both;
+	padding: 10px;
+}
+.sec10 div{
+	float: Left;
+	margin: 0 10;
+	padding: 5px;
+}
+.sec10 .sec10div1{
+	 width: 28%;
+}
+.sec10 .sec10div2{
+	width: 18%;
+}
+.sec10 .sec10div3{
+	width: 13%;
+}
+.sec14{
+	clear: both;
+	padding: 50px;
+}
+.sec14 h1{
+	color: #437a45;
+	font-size: 50px;
+	padding-left: 85px;
+}
+.sec14 img{
+	width: 90%;
+	padding-left: 85px;
+}
+.sec13 div{
+	float: left;
+	text-align: center;
+	padding: 25px;
+	border: double black 2px;
+	color: #437a45;
+}
+.sec11{
+	clear: both;
+	overflow: hidden;
+	background-color: #34373c;
+}
+.sec11 div{
+	width: 20%;
+	float: left;
+
+}
+.sec11 ul li{
+	list-style-type: none;
+	padding: 5px;
+}
+.sec11 a{
+	overflow: hidden;
+	text-decoration: none;
+	color: #767d88;
+	text-align: center;
+}
+.sec11 b{
+	color: white;
+}
+.sec12{
+	height: 25px;
+}
+.sec12 div{
+	float: left;
+	width: 50%;
+	font-size: 20px;
+}
+.sec12div2{
+	text-align: right;
+}
